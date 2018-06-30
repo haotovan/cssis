@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://duanskyvillas.com' target='_blank'><img src='https://duanskyvillas.com/wp-content/uploads/2018/06/RGPQ-161220-SV-Pool-Deck.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://duanskyvillas.com' target='_blank'><img src='https://duanskyvillas.com/wp-content/uploads/2018/06/RGPQ-161220-SV-Pool-Deck.jpg' width='500px'/><br/>13 biệt thự biển đầu tiên phú quốc</a>.  lợi nhuận ca. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
